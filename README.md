@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#2e8b57;">Fady Nader</span></h1>
 
 <p align="center">
-  <b>🎯 Junior Backend Developer | ASP.NET Core Focused</b><br>
+  <b>🎯 Full Stack Developer | ASP.NET Core Focused</b><br>
   <i>Building Clean, Scalable APIs with .NET Core & Modern Tools</i>
 </p>
 
