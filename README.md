@@ -13,7 +13,7 @@
 
 ## 💼 About Me
 
-💻 I'm a junior backend developer with a strong focus on **ASP.NET Core**.  
+💻 I'm a full stack developer with a strong focus on **ASP.NET Core**.  
 🛠️ I enjoy crafting well-structured APIs using **Clean Architecture**, **EF Core**, **JWT**, and **Stripe**.  
 🚀 I'm seeking a role where I can contribute, learn, and grow in a dynamic tech environment.  
 
