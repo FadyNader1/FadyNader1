@@ -39,21 +39,31 @@
 - Swagger for API Testing  
 
 ---
-
-
 ### 📂 Projects
 
-- **🛒 Talabat Backend API** – A full e-commerce RESTful API built using ASP.NET Core, EF Core, Redis, Stripe Integration, and Clean Architecture  
+- **🛒 Talabat Backend API** – A full e-commerce RESTful API built using **ASP.NET Core**, **EF Core**, **Redis**, **Stripe Integration**, and **Clean Architecture**.  
   [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Talabat-000?style=for-the-badge&logo=github)](https://github.com/FadyNader1/Talabat)  
   [![Postman Collection](https://img.shields.io/badge/Postman-Talabat%20Collection-orange?style=for-the-badge&logo=postman)](https://github.com/FadyNader1/Talabat/blob/master/Talabat1.postman_collection.json)
 
-- ** Hospital Management System API** –A comprehensive web-based Hospital Management System built with ASP.NET Core (.NET 8), EF Core and Clean Architecture  
-  [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Talabat-000?style=for-the-badge&logo=github)](https://github.com/FadyNader1/Hospital-Management-System)  
+---
 
-- **👥 Employee Management System (MVC)** – A basic HR system built using ASP.NET MVC to manage employees with full CRUD, role filtering, and Razor views  
-  [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Talabat-000?style=for-the-badge&logo=github)](https://github.com/FadyNader1/Employee-Management-System-)
+- **🛍️ Ecomm-Ventro-API** – A specialized E-commerce API focusing on scalable backend logic and seamless data management.  
+  [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Ecomm--Ventro-000?style=for-the-badge&logo=github)](https://github.com/FadyNader1/Ecomm)
 
 ---
+
+- **🚀 Ventro (Full-Stack)** – A complete Full-Stack application integrating a robust backend with a dynamic frontend for a seamless user experience.  
+  [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Ventro-000?style=for-the-badge&logo=github)](https://github.com/FadyNader1/Ventro)
+
+---
+
+- **🏥 Hospital Management System API** – A comprehensive web-based Hospital Management System built with **ASP.NET Core (.NET 8)**, **EF Core**, and **Clean Architecture**.  
+  [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Hospital%20Management-000?style=for-the-badge&logo=github)](https://github.com/FadyNader1/Hospital-Management-System)  
+
+---
+
+- **👥 Employee Management System (MVC)** – A basic HR system built using **ASP.NET MVC** to manage employees with full CRUD, role filtering, and **Razor views**.  
+  [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Employee%20Management-000?style=for-the-badge&logo=github)](https://github.com/FadyNader1/Employee-Management-System-)
 
 ### 🧪 Testing the Endpoints
 
