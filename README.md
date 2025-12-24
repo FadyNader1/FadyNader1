@@ -47,13 +47,14 @@
 
 ---
 
-- **🛍️ Ecomm-Ventro-API** – A specialized E-commerce API focusing on scalable backend logic and seamless data management.  
-  [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Ecomm--Ventro-000?style=for-the-badge&logo=github)](https://github.com/FadyNader1/Ecomm)
+- **🚀 Ventro (Full-Stack)** – A complete Full-Stack application integrating a robust backend with a dynamic frontend for a seamless user experience.  
+  [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Ventro-000?style=for-the-badge&logo=github)](https://github.com/FadyNader1/Ventro)  
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Ventro--Gold-green?style=for-the-badge&logo=vercel)](https://ventro-gold.vercel.app)
 
 ---
 
-- **🚀 Ventro (Full-Stack)** – A complete Full-Stack application integrating a robust backend with a dynamic frontend for a seamless user experience.  
-  [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Ventro-000?style=for-the-badge&logo=github)](https://github.com/FadyNader1/Ventro)
+- **🛍️ Ecomm-Ventro-API** – A specialized E-commerce API focusing on scalable backend logic and seamless data management.  
+  [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Ecomm--Ventro-000?style=for-the-badge&logo=github)](https://github.com/FadyNader1/Ecomm)
 
 ---
 
@@ -64,7 +65,6 @@
 
 - **👥 Employee Management System (MVC)** – A basic HR system built using **ASP.NET MVC** to manage employees with full CRUD, role filtering, and **Razor views**.  
   [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Employee%20Management-000?style=for-the-badge&logo=github)](https://github.com/FadyNader1/Employee-Management-System-)
-
 ### 🧪 Testing the Endpoints
 
 ✅ Download the Postman Collection:  
