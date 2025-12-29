@@ -56,8 +56,8 @@
 
 - **🛒 Talabat Backend API** – A full e-commerce RESTful API built using **ASP.NET Core**, **EF Core**, **Redis**, **Stripe Integration**, and **Clean Architecture**.  
   [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Talabat-000?style=for-the-badge&logo=github)](https://github.com/FadyNader1/Talabat)  
-  [![Postman Collection](https://img.shields. ://img.shields.io/badge/Postman-Talabat%20Collection-orange?style=for-the-badge&logo=postman)](https://github.com/FadyNader1/Talabat/blob/master/Talabat1.postman_collection.json)
-
+  [![Postman Collection](https://img.shields.io/badge/Postman-Talabat%20Collection-orange?style=for-the-badge&logo=postman)](https://github.com/FadyNader1/Talabat/blob/master/Talabat1.postman_collection.json)
+  
 ---
 
 - **🏥 Hospital Management System API** – A comprehensive web-based Hospital Management System built with **ASP.NET Core (.NET 8)**, **EF Core**, and **Clean Architecture**.  
