@@ -57,7 +57,16 @@
 - **🛒 Talabat Backend API** – A full e-commerce RESTful API built using **ASP.NET Core**, **EF Core**, **Redis**, **Stripe Integration**, and **Clean Architecture**.  
   [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Talabat-000?style=for-the-badge&logo=github)](https://github.com/FadyNader1/Talabat)  
   [![Postman Collection](https://img.shields.io/badge/Postman-Talabat%20Collection-orange?style=for-the-badge&logo=postman)](https://github.com/FadyNader1/Talabat/blob/master/Talabat1.postman_collection.json)
-  
+  ### 🧪 Testing the Endpoints
+
+✅ Download the Postman Collection:  
+📥 [Talabat1.postman_collection.json](https://github.com/FadyNader1/Talabat/blob/master/Talabat1.postman_collection.json)
+
+⚙️ How to Use:
+1. Open Postman  
+2. Click on `Import` and select the JSON file  
+3. Start testing the endpoints with ease 🎯
+
 ---
 
 - **🏥 Hospital Management System API** – A comprehensive web-based Hospital Management System built with **ASP.NET Core (.NET 8)**, **EF Core**, and **Clean Architecture**.  
@@ -68,15 +77,6 @@
 - **👥 Employee Management System (MVC)** – A basic HR system built using **ASP.NET MVC** to manage employees with full CRUD, role filtering, and **Razor views**.  
   [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Employee%20Management-000?style=for-the-badge&logo=github)](https://github.com/FadyNader1/Employee-Management-System-)
   
-### 🧪 Testing the Endpoints
-
-✅ Download the Postman Collection:  
-📥 [Talabat1.postman_collection.json](https://github.com/FadyNader1/Talabat/blob/master/Talabat1.postman_collection.json)
-
-⚙️ How to Use:
-1. Open Postman  
-2. Click on `Import` and select the JSON file  
-3. Start testing the endpoints with ease 🎯
 
 ---
 
