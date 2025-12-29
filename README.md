@@ -39,8 +39,6 @@
 - Swagger for API Testing  
 
 ---
----
-
 ### 📂 Projects
 
 - **🚀 Ventro (Full-Stack)** – A complete Full-Stack application integrating a robust **ASP.NET Core** backend with a dynamic **Angular** frontend for a seamless user experience.  
@@ -51,14 +49,14 @@
 ---
 
 - **🛍️ Ecomm-Ventro-API** – A specialized E-commerce API focusing on scalable backend logic and seamless data management.  
-  [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Ecomm--Ventro-000?style=for-the-badge&logo=github)](https://github.com/FadyNader1/Ecomm)
+  [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Ecomm--Ventro-000?style=for-the-badge&logo=github)](https://github.com/FadyNader1/Ecomm)  
   [![Swagger API](https://img.shields.io/badge/Swagger-API%20Docs-blue?style=for-the-badge&logo=swagger)](https://ventro.runasp.net/swagger/index.html)
-  
+
 ---
 
 - **🛒 Talabat Backend API** – A full e-commerce RESTful API built using **ASP.NET Core**, **EF Core**, **Redis**, **Stripe Integration**, and **Clean Architecture**.  
   [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Talabat-000?style=for-the-badge&logo=github)](https://github.com/FadyNader1/Talabat)  
-  [![Postman Collection](https://img.shields.io/badge/Postman-Talabat%20Collection-orange?style=for-the-badge&logo=postman)](https://github.com/FadyNader1/Talabat/blob/master/Talabat1.postman_collection.json)
+  [![Postman Collection](https://img.shields. ://img.shields.io/badge/Postman-Talabat%20Collection-orange?style=for-the-badge&logo=postman)](https://github.com/FadyNader1/Talabat/blob/master/Talabat1.postman_collection.json)
 
 ---
 
@@ -69,6 +67,7 @@
 
 - **👥 Employee Management System (MVC)** – A basic HR system built using **ASP.NET MVC** to manage employees with full CRUD, role filtering, and **Razor views**.  
   [![GitHub Repo](https://img.shields.io/badge/GitHub%20Repo-Employee%20Management-000?style=for-the-badge&logo=github)](https://github.com/FadyNader1/Employee-Management-System-)
+  
 ### 🧪 Testing the Endpoints
 
 ✅ Download the Postman Collection:  
